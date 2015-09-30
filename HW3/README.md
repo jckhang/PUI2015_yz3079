@@ -20,3 +20,6 @@ np.random.wald(mu=mymean,scale=2,n)
 
 We can infer from those plots of population mean against sample size that the larger is the sample size, the closer is the sample mean to the population mean.
 
+## Assignment 2
+
+Follow and understand the notebook and repeat the z-test and chisq test for employment in an unsubsidized job.
