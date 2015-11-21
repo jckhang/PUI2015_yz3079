@@ -1,4 +1,4 @@
-## Plot 2: Sachin Verma 
+## Plot 2 from Sachin Verma 
 ![test](sachinve_plot.png)
 ## Review
 1. Clarity
